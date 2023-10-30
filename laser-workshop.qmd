@@ -1,0 +1,93 @@
+---
+title: "Learning to Teach with (and Learn from!) the LASER Institute Curriculum"
+subtitle: "Learning Analytics and Knowledge Conference, 2024"
+author: "Dr. Shaun Kellogg"
+date: today 
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+theme:
+  light: simplex
+  dark: cyborg
+editor: visual
+---
+
+## Overview
+
+The purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. **The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.** Participants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.
+
+**Keywords**: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing
+
+## **Background**
+
+To help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into \"turnkey\" curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars. 
+
+## **Workshop Goals**
+
+The half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Jupyter Notebooks. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. 
+
+Finally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions. 
+
+## **Workshop Schedule**
+
+This session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:
+
+-   Introduction and Overview of the LASER program (30 minutes)
+
+    -   This will include an overview of the purpose and goals of LASER, including  lessons learned from two virtual and one in-person cohorts of participating scholars.
+
+-   Bio Break/Facilitator Transition (5 minutes)
+
+-   Part 1: Guided Introduction to the LASER Curriculum Design (90 minutes)
+
+    -   A hands-on walkthrough of the LASER curriculum components of each learning module/lab (see workshop activities below). 
+
+-   Bio Break (10 minutes)
+
+-   Part 2: Guided Introduction to Teaching with the LASER Curriculum (90 minutes)
+
+    -   A hands-on walkthrough of pedagogical supports for the teaching the curriculum including: 
+
+        -   Technology Infrastructure
+
+        -   Adapting Curriculum for Specific Contexts
+
+        -   Instructional Planning
+
+        -   Student Assessment 
+
+-   Wrap-up (15 minutes)
+
+    -   Workshop evaluation 
+
+    -   Ways to engage post workshop
+
+## **Workshop Activities**
+
+The workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.
+
+Part 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:
+
+-   **Interactive Presentations**. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. 
+
+-   **Coding Case Studies**. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). 
+
+-   **Readings and Discussion**. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.
+
+-   **Software Tutorials**. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  
+
+-   **Badges & Microcredentials**. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.
+
+Part 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution. 
+
+## **Workshop Preparation**
+
+The workshop organizers will create a welcome packet to distribute to participants prior to the workshop. This packet will contain essential materials, including, but not limited to: information about the workshop facilitators; a pre-workshop preparation checklist for setting up their LASER technology toolkit; links to websites that will be used throughout the day; and a planning template to support efforts for integrating materials post workshop.
+
+## **Post Workshop Engagement**
+
+Participants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.
+
+\
