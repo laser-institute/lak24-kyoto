@@ -1,0 +1,122 @@
+---
+title: "Learning to Teach with (and Learn from!) the LASER Institute Curriculum"
+subtitle: "Learning Analytics and Knowledge Conference, 2024"
+text: "March 19, 2024" 
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+theme:
+  light: simplex
+  dark: cyborg
+editor: visual
+---
+
+![](img/LASER_Hx.png){fig-align="left" width="30%"}
+
+## Overview
+
+Thus, the half-day SNA workshop serves as an extension of the LASER Institute. The Learning Analytics in STEM Education Research (ASE) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. The SNA workshop is designed for a diverse range of education researchers, including early-career researchers, PhD students, faculty members, and practitioners, who are keen on exploring innovative methodologies to enhance their research. Using \\affiliationName materials, the half-day course offers an immersion into social network theory, showcases diverse applications of network analysis in educational settings, and affords hands-on experience with analyzing actual data sets. SNA is pertinent to foster a deeper understanding of its multifaceted applications, grounded in rich historical context, and to equip attendees with the nuanced perspective required to navigate the complex landscapes of contemporary educational environments. It serves as a conduit to delve deeper into the transformative potential SNA holds in scrutinizing and enriching learning analytics from a systemic and contextual standpoint, tracing a trajectory that has evolved significantly from its inception.
+
+By intertwining theoretical instruction with applied experiences, the workshop aims to instill a deep-seated understanding of SNA's dual role as a theoretical lens and a method of analysis. This balanced approach enables scholars to harness the potential of SNA in understanding and enhancing learning environments and outcomes. The workshop, designed to address the current needs and interests of educational researchers, serves as a comprehensive introduction to the transformative potential of SNA in learning analytics. Attendees will leave with a comprehensive understanding of the theory and application of SNA, practical skills in analyzing educational networks, and access to resources and materials to support their ongoing learning and research.
+
+## Type of Event
+
+Each lab consists of two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests.
+
+## Workshop Activities
+
+This half-day workshop will include presentations, guided activities, small- and large-group discussions and a hands-on activities.
+
+Case study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.
+
+## Proposed Schedule and Duration
+
+\\begin{itemize}
+
+\\item \\textbf{Introduction and Overview of \\affiliationName Institute} (50 minutes)
+
+\\begin{itemize}
+
+\\item Overview of \\affiliationName Learning Labs
+
+\\item Intro to Posit Cloud and RStudio
+
+\\end{itemize}
+
+\\item \\textbf{Break} (10 minutes)
+
+\\item \\textbf{Lab 1: (SNA for Newbies)} (10 minutes)
+
+\\begin{itemize}
+
+\\item Conceptual Overview
+
+\\item Interactive Code-Along
+
+\\end{itemize}
+
+\\item \\textbf {First part of Case-Study} (20 minutes)
+
+\\item \\textbf {Break} (10 minutes)
+
+\\item \\textbf {Lab 2: (Networks)} (60 minutes)
+
+\\begin{itemize}
+
+\\item Conceptual Overview
+
+\\item Interactive Code-Along
+
+\\end{itemize}
+
+\\item \\textbf {Second part of Case-Study} (20 minutes)
+
+\\item \\textbf {Wrap-Up} (10 minutes)
+
+\\end{itemize}
+
+\\subsection{Type of Participation}
+
+The workshop expects to attract 30 participants.
+
+\\subsection{Required Equipment}
+
+Projector and screen will be required by organizers, round tables for collaboration. Attendees will need to bring laptops and will need adequate internet connectivity.
+
+\\section{OBJECTIVES AND OUTCOMES}
+
+Broadly, this workshop offers those in the Learning Analytics community an exposure to an introduction of SNA for Learning Analytics. The objective of this course is to facilitate scholars in an introduction to the robustness of SNA not just as an alternative but also a supplementary method to the conventional research techniques. The detailed learning goals for participants are outlined as follows:
+
+\\begin{itemize}
+
+\\item \\textbf{Theory Comprehension:}Acquire knowledge on the theoretical underpinning of social network analysis, and understand its application in solving critical problems and addressing pertinent questions in the educational sector.
+
+\\item \\textbf{Identifying Data and Metrics:} Learn to pinpoint potential data sources for network analysis, and familiarize oneself with related metrics such as centrality and degree.
+
+\\item \\textbf{Software Mastery:} Become adept at utilizing current software and tools like R, enhancing skills in the execution of workflows for data preparation, analysis, and dissemination.
+
+\\item \\textbf{Analytical Understanding:} Grasp the analytical procedures and techniques such as sociograms and clustering in network analysis, essential for comprehending and augmenting learning as well as the environments conducive to learning.
+
+\\item \\textbf{Effective Communication:} Develop an understanding of the fundamental concepts and terms in SNA, empowering individuals to convey basic SNA methods, analytical outcomes, and discoveries to a broad spectrum of stakeholders in education.
+
+\\end{itemize}
+
+Although having a background in R, RStudio, and GitHub can aid in navigating complex activities, it is not mandatory.
+
+\\section{COMMUNICATION PLAN}
+
+\\subsection{Recruitment}
+
+The organizers will recruit through individual invitations, social media platforms, networks, the Learning Analytics Google Group, and the conference website. Our recruitment strategy will involve both informal and formal approaches such as tapping into our existing professional networks and targeted digital marketing efforts on our established social media, e-mail, and web platforms. This built in audience includes key education stakeholders, researchers, educators, and current and past participants of the \\affiliationName Institute.
+
+\\subsection{Information Sharing}
+
+The organizers will communicate via email prior to and following the event. The workshop organizers will create a welcome packet to distribute to participants prior to the workshop. This packet will contain essential materials, including, but not limited to: information about the workshop facilitators; an overview and schedule for the day; a pre-workshop preparation checklist for setting up their \\affiliationName technology toolkit; links to websites that will be used throughout the day.
+
+\\subsection{Tools}
+
+The organizers plan to make use of a website, Posit Cloud and Github repository.
+
+\
